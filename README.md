@@ -1,2 +1,3 @@
 # To-do-list
-html css js
+This is To-do-list project
+by using html,css,js
